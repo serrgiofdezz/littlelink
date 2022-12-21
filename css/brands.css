@@ -307,7 +307,7 @@ button:hover,
 /* GitHub */
 .button.button-github {
   color: #ffffff;
-  background-color: #000000;
+  background-color: #1c1e21;
 }
 .button.button-github:hover,
 .button.button-github:focus {
@@ -317,7 +317,7 @@ button:hover,
 /* Gitlab */
 .button.button-gitlab {
   color: #ffffff;
-  background-color: #6151b2;
+  background-color: #554488;
 }
 .button.button-gitlab:hover,
 .button.button-gitlab:focus {
