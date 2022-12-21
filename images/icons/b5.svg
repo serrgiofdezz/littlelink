@@ -1,0 +1,11 @@
+<!-- Copyright C 2022 bbjprojek labs -->
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2039_520)">
+<path d="M15.6243 40.7113L11.2057 16.9501C11.0057 15.8742 9.47093 15.8552 9.24428 16.9259L2.24231 50L0 50V0H50V43.18L30.5732 36.0284C30.1387 35.8685 29.8708 35.4312 29.9257 34.9715L32.8263 10.6731C32.9592 9.56002 31.4407 9.10459 30.9391 10.1071L15.6243 40.7113Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_2039_520">
+<rect width="50" height="50" rx="10" fill="white"/>
+</clipPath>
+</defs>
+</svg>

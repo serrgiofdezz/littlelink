@@ -77,11 +77,53 @@ button:hover,
 /* Default (this is great for your own brand color!) */
 .button.button-default {
   color: #ffffff;
-  background-color: #0085ff;
+  background-color: #005397;
 }
 .button.button-default:hover,
 .button.button-default:focus {
   filter: brightness(90%);
+}
+
+@media (prefers-color-scheme: dark) {
+  .button.button-default {
+    /* color: #1C1E21; */
+    background-color: #60AAE8;
+  }
+}
+
+/* Custom */
+.button.button-custom {
+  color: #ffffff;
+  background-color: #005397;
+}
+.button.button-custom:hover,
+.button.button-custom:focus {
+  filter: brightness(90%);
+}
+
+.button.button-custom-green {
+  color: #ffffff;
+  background-color: #008076;
+}
+.button.button-custom-green:hover,
+.button.button-custom-green:focus {
+  filter: brightness(90%);
+}
+
+.button.button-custom-red {
+  color: #ffffff;
+  background-color: #bb1420;
+}
+.button.button-custom-red:hover,
+.button.button-custom-red:focus {
+  filter: brightness(90%);
+}
+
+@media (prefers-color-scheme: dark) {
+  .button.button-custom-red {
+    /* color: #1C1E21; */
+    background-color: #bb6969;
+  }
 }
 
 /* Amazon */
@@ -695,7 +737,7 @@ button:hover,
 /* Website */
 .button.button-web {
   color: #ffffff;
-  background-color: #000000;
+  background-color: #005397;
 }
 .button.button-web:hover,
 .button.button-web:focus {
