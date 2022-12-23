@@ -636,7 +636,7 @@ button:hover,
 /* Telegram */
 .button.button-telegram {
   color: #ffffff;
-  background-color: #3faee8;
+  background-color: #27A6E6;
 }
 .button.button-telegram:hover,
 .button.button-telegram:focus {
@@ -696,7 +696,7 @@ button:hover,
 /* Twitter */
 .button.button-twit {
   color: #ffffff;
-  background-color: #1da1f2;
+  background-color: #009EF7;
 }
 .button.button-twit:hover,
 .button.button-twit:focus {
