@@ -454,6 +454,23 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Misc */
+.button.button-misc {
+  color: #ffffff;
+  background: repeating-linear-gradient(
+  45deg,
+  #000000,
+  #000000 10px,
+  #EF7D00 10px,
+  #EF7D00 20px
+);
+
+/* }
+.button.button-misc:hover,
+.button.button-misc:focus {
+  filter: brightness(90%);
+*/ }
+
 /* Notion */
 .button.button-notion {
   color: #000000;
