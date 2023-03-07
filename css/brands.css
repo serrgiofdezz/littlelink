@@ -77,7 +77,7 @@ button:hover,
 /* Default (this is great for your own brand color!) */
 .button.button-default {
   color: #ffffff;
-  background-color: #005397;
+  background-color: #1D4F91;
 }
 .button.button-default:hover,
 .button.button-default:focus {
@@ -87,23 +87,30 @@ button:hover,
 @media (prefers-color-scheme: dark) {
   .button.button-default {
     /* color: #1C1E21; */
-    background-color: #60AAE8;
+    background-color: #6CACE4;
   }
 }
 
 /* Custom */
 .button.button-custom {
   color: #ffffff;
-  background-color: #005397;
+  background-color: #1D4F91;
 }
 .button.button-custom:hover,
 .button.button-custom:focus {
   filter: brightness(90%);
 }
 
+@media (prefers-color-scheme: dark) {
+  .button.button-custom {
+    /* color: #1C1E21; */
+    background-color: #6CACE4;
+  }
+}
+
 .button.button-custom-green {
   color: #ffffff;
-  background-color: #008076;
+  background-color: #008578;
 }
 .button.button-custom-green:hover,
 .button.button-custom-green:focus {
@@ -774,7 +781,7 @@ button:hover,
 /* Website */
 .button.button-web {
   color: #ffffff;
-  background-color: #005397;
+  background-color: #1D4F91;
 }
 .button.button-web:hover,
 .button.button-web:focus {
