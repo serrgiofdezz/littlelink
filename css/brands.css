@@ -341,6 +341,17 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Google Black */
+.button.button-google-black {
+  color: #FFFFFF;
+  background-color: #000000;
+  border: 1px solid #FFFFFF;
+}
+.button.button-google-black:hover,
+.button.button-google-black:focus {
+  filter: brightness(90%);
+}
+
 /* Google Play Store */
 .button.button-playstore {
   color: #FFFFFF;
@@ -551,16 +562,24 @@ button:hover,
   filter: brightness(90%);
 }
 
-/* Producthunt */
-.button.button-producthunt {
-  color: #da552f;
-  border-style: solid;
-  border-color: #da552f;
-  border-width: 2px;
+/* Product Hunt */
+.button.button-product-hunt {
+  color: #000000;
   background-color: #ffffff;
 }
 .button.button-producthunt:hover,
 .button.button-producthunt:focus {
+  filter: brightness(90%);
+}
+
+/* Read.cv */
+.button.button-read-cv {
+  color: #FFFFFF;
+  background-color: #000000;
+  border: 1px solid #FFFFFF;
+}
+.button.button-read-cv:hover,
+.button.button-read-cv:focus {
   filter: brightness(90%);
 }
 
