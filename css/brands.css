@@ -501,6 +501,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* OpenStreetMap */
+.button.button-osm {
+  color: #ffffff;
+  background-color: #434F37;
+}
+.button.button-osm:hover,
+.button.button-osm:focus {
+  filter: brightness(90%);
+}
+
 /* Patreon */
 .button.button-patreon {
   color: #ffffff;
