@@ -133,6 +133,23 @@ button:hover,
   }
 }
 
+/* Authority */
+.button.button-authority {
+  color: #ffffff;
+  background-color: #006A8E;
+}
+.button.button-custom:hover,
+.button.button-custom:focus {
+  filter: brightness(90%);
+}
+
+@media (prefers-color-scheme: dark) {
+  .button.button-authority {
+    /* color: #1C1E21; */
+    background-color: #48A9C5;
+  }
+}
+
 /* Amazon */
 .button.button-amazon {
   color: #000000;
