@@ -46,8 +46,8 @@ button {
   outline: none;
   border-radius: 8px;
   cursor: pointer;
-  
-}     
+
+}
 button:hover,
 .button:focus {
   color: #212121;
@@ -1072,5 +1072,15 @@ button:hover,
 }
 .button.button-unsplash:hover,
 .button.button-unsplash:focus {
+  filter: brightness(90%);
+}
+
+/* BeReal */
+.button.button-bereal {
+  color: #ffffff;
+  background-color: #000000;
+}
+.button.button-bereal:hover,
+.button.button-bereal:focus {
   filter: brightness(90%);
 }
