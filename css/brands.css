@@ -257,7 +257,7 @@ button:hover,
 /* BeReal */
 .button.button-bereal {
   color: #ffffff;
-  background-color: #121212;
+  background-color: #000000;
   border: 1px solid #ffffff;
 }
 .button.button-bereal:hover,
@@ -776,7 +776,7 @@ button:hover,
 .button.button-revolut {
   color: #000000;
   background-color: #ffffff;
-  border: 2px solid black;
+  border: 1px solid black;
 }
 .button.button-rev:hover,
 .button.button-rev:focus {
