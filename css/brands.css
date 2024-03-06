@@ -638,8 +638,19 @@ button:hover,
   filter: brightness(90%);
 }
 
-/* Misc */
-.button.button-misc {
+/* Microsoft */
+.button.button-microsoft {
+  color: #ffffff;
+  background-color: #000000;
+  border: 1px solid #FFFFFF;
+}
+.button.button-microsoft:hover,
+.button.button-microsoft:focus {
+  filter: brightness(90%);
+}
+
+/* NGL */
+.button.button-ngl {
   color: #ffffff;
   background: repeating-linear-gradient(
   45deg,
